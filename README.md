@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on genAI projects<br>🌱 I’m currently learning SpringBoot amd ReactJS
+🔭 I’m currently working on Web Development<br>🌱 I’m currently learning SpringBoot amd ReactJS
 
 
 ## 🌐 Socials:
