@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Sinha</h1>
-<h3 align="center">🎮 Aspiring Full Stack Developer | 🎓 BTech @ NIT Rourkela</h3>
+<h3 align="center">💻 Aspiring Full Stack Developer | 🎓 BTech @ NIT Rourkela</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AyushSinha2603&label=Profile%20views&color=0e75b6&style=flat" alt="AyushSinha2603" />
@@ -51,7 +51,8 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-sinha-70046a319) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AyushSInha026) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushcodes26@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-sinha-70046a319) [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AyushSInha026)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushcodes26@gmail.com) 
 ---
 
 ### 🎨 Fun Facts
