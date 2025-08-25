@@ -12,7 +12,7 @@
 - 💻 I'm a software enthusiast with a love for clean code, fast web apps, and solving logic-heavy problems.
 - 🚀 I enjoy working with *React*, *Node.js*, and *Express.js* to build dynamic, responsive applications.
 - 📚 Currently learning:
-  - Backend development with **Node.js**
+  - Backend development with **SpringBoot**
   - **Python** for data analytics
 - 🧠 Always curious — diving deeper into system design and writing smarter backend code.
 
