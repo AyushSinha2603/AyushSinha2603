@@ -40,8 +40,8 @@
 
 - 🎬 [*CineVerse*](https://github.com/AyushSinha2603/cineverse)  
   Movie and TV Show Discovery & Tracking Platform.
-- 🤖 [*PrepMind*](https://github.com/AyushSinha2603/PrepMind)  
-  AI-Powered Interview Preparation App.
+- 🤖 [*MailSense-AI*](https://github.com/AyushSinha2603/MailSense-AI)  
+  A smart backend application for email management with GeminiAPI.
 
 ---
 
