@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Sinha</h1>
-<h3 align="center">💻 Aspiring Full Stack Developer | 🎓 BTech @ NIT Rourkela</h3>
+<h3 align="center">💻 Full Stack Developer | 🎓 B.Tech Civil Engineering @ NIT Rourkela (2023–2027)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AyushSinha2603&label=Profile%20views&color=0e75b6&style=flat" alt="AyushSinha2603" />
@@ -9,12 +9,13 @@
 
 ### 👨‍💻 About Me
 
-- 💻 I'm a software enthusiast with a love for clean code, fast web apps, and solving logic-heavy problems.
-- 🚀 I enjoy working with *React*, *Node.js*, and *Express.js* to build dynamic, responsive applications.
-- 📚 Currently learning:
-  - Backend development with **SpringBoot**
-  - **Python** for data analytics
-- 🧠 Always curious — diving deeper into system design and writing smarter backend code.
+- 💻 Enthusiastic about building scalable systems, writing clean code, and solving challenging problems.  
+- 🚀 I work with *React* and *Spring Boot* to develop modern, reliable applications.  
+- 📚 Currently learning:  
+  - **Spring Boot** for backend development  
+  - **Python** for data analytics  
+- 🧩 Exploring system design, distributed systems, and better backend architectures.  
+
 
 ---
 
