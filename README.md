@@ -1,105 +1,106 @@
-<h1 align="center">Hi 👋, I'm Ayush Sinha</h1>
-<h3 align="center">💻 Full Stack Developer | 🎓 B.Tech Civil Engineering @ NIT Rourkela (2023–2027)</h3>
+<h1 align="center">✨ Hey, I’m <span style="color:#FF6F61">Ayush Sinha</span> 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushSinha2603&label=Profile%20views&color=0e75b6&style=flat" alt="AyushSinha2603" />
+  💻 Full Stack Developer <br>
+  🎓 B.Tech Civil Engineering @ NIT Rourkela (2023–2027) <br>
+  🚀 Focused on backend systems, scalability & real-world problem solving
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+🚀;Backend+%2B+System+Design+Enthusiast+⚙️;Always+learning+and+building+💻" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 Who Am I?
 
-- 💻 Enthusiastic about building scalable systems, writing clean code, and solving challenging problems.  
-- 🚀 I work with *React* and *Spring Boot* to develop modern, reliable applications.  
-- 📚 Currently learning:  
-  - **Spring Boot** for backend development  
-  - **Python** for data analytics  
-- 🧩 Exploring system design, distributed systems, and better backend architectures.  
+```js
+const Ayush = {
+  pronouns: "he/him",
+  code: ["Java", "JavaScript", "Python"],
+  frameworks: ["React", "Spring Boot", "Next.js"],
+  databases: ["PostgreSQL", "MongoDB", "SQLite"],
+  tools: ["Postman", "Power BI"],
+  hobbies: ["Chess", "Cricket", "Gaming"],
+  motto: "Build → Optimize → Scale 🚀"
+}
+```
 
+💡 I enjoy building scalable applications with clean architecture. From frontend interfaces to backend systems, I focus on writing efficient code and solving meaningful problems.
 
 ---
 
-### 🚀 Tech Stack
+## 📚 Widgets That Define My Work
 
-<!-- Tech‑Stack Badges (unclickable) -->
-<div style="pointer-events: none; display: flex; flex-wrap: wrap; gap: 6px;">
-  <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQLite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NumPy-4DABCF.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-71D291.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F1C912.svg?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSinha2603&theme=react-dark&hide_border=true" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushSinha2603&theme=github_dark" />
+</p>
+
+---
+
+## ⚡ Projects & Work
+
+### 🚀 CineVerse
+- Movie & TV show discovery and tracking platform  
+- Built with modern frontend and backend technologies  
+- Focused on UI experience and structured data handling  
+
+### 🤖 MailSense-AI
+- Backend-focused intelligent email management system  
+- Integrated AI (Gemini API) for smart email processing  
+- Emphasis on automation and efficient workflows  
+
+---
+
+## 🔧 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nextjs,spring,postgres,mongodb,sqlite,python,git,github,postman&perline=6" />
 </div>
 
-
-
----
-
-### 🌟 Featured Projects
-
-- 🎬 [*CineVerse*](https://github.com/AyushSinha2603/cineverse)  
-  Movie and TV Show Discovery & Tracking Platform.
-- 🤖 [*MailSense-AI*](https://github.com/AyushSinha2603/MailSense-AI)  
-  A smart backend application for email management with GeminiAPI.
+**Currently exploring:**  
+- System Design & Distributed Systems  
+- Advanced Spring Boot Architecture  
+- Backend scalability & performance optimization  
 
 ---
 
-### 🔗 Coding Profiles
+## 🌍 Let’s Get Connected
 
-<p align="left">
-  <a href="https://leetcode.com/u/SorcererCodes/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge&logo=leetcode&logoColor=d16c06" alt="LeetCode"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-sinha-70046a319/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/rufee" target="_blank">
-    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/>
+  <a href="https://x.com/AyushSInha026" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/ayushcodes26" target="_blank">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-F44336?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AyushSinha2603">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## ✨ Fun Fact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sinha-70046a319/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AyushSInha026)
-[![Email](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+> ♟️ I approach chess like coding — pattern recognition, strategy, and precision.
 
 ---
 
-### 🎨 Fun Facts
+## 🧳 Signature Energy
 
-- ♟️ I love playing and analyzing chess — both online and over-the-board.
-- 🏏 Cricket and video games are my favorite stress buster.
-
----
-
-### 💬 Quote I Live By
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 > “Work hard till your idol becomes your rival.”
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushSinha2603&show_icons=true&theme=github_dark&hide=issues" alt="stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSinha2603&show_icons=true&theme=github_dark&hide_border=false" alt="stats" />
-  <br/><br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=AyushSinha2603&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSinha2603&show_icons=true&theme=github_dark&no-frame=false&no-bg=true&margin-w=4&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="stats" />
-</p>
-
----
-[![](https://visitcount.itsvg.in/api?id=AyushSinha2603&icon=9&color=7)](https://visitcount.itsvg.in)
+⭐ *If my work helps you, drop a star!*  
+🚀 *Open to collaborations and building impactful projects*
