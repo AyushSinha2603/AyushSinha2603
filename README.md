@@ -18,7 +18,7 @@
 const Ayush = {
   pronouns: "he/him",
   code: ["Java", "JavaScript", "Python"],
-  frameworks: ["React", "Spring Boot", "Next.js"],
+  frameworks: ["Spring Boot", "Next.js", "Node.js"],
   databases: ["PostgreSQL", "MongoDB", "SQLite"],
   tools: ["Postman", "Power BI"],
   hobbies: ["Chess", "Cricket", "Gaming"],
