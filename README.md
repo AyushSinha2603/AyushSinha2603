@@ -42,10 +42,10 @@ const Ayush = {
 
 ## ⚡ Projects & Work
 
-### 🚀 CineVerse
-- Movie & TV show discovery and tracking platform  
-- Built with modern frontend and backend technologies  
-- Focused on UI experience and structured data handling  
+### 🚀 Sleepyhead Studios Website
+- Official indie game studio website & creative showcase 
+- Built with React.js, Lenis Scroll, and Framer Motion  
+- Focused on immersive UI, smooth transitions, and modern web experience 
 
 ### 🤖 MailSense-AI
 - Backend-focused intelligent email management system  
