@@ -98,7 +98,7 @@ const Ayush = {
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-> “Work hard till your idol becomes your rival.”
+> “Still becoming the person I once needed.”
 
 ---
 
