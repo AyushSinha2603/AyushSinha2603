@@ -88,7 +88,7 @@ const Ayush = {
 
 ## ✨ Fun Fact
 
-> ♟️ I approach chess like coding — pattern recognition, strategy, and precision.
+> 🧠 I switch between React bugs and chess blunders daily.
 
 ---
 
