@@ -37,6 +37,9 @@ const Ayush = {
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushSinha2603&theme=github_dark" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSinha2603&theme=dark&hide_border=true" />
+</p>
 
 ---
 
