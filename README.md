@@ -46,14 +46,28 @@ const Ayush = {
 ## ⚡ Projects & Work
 
 ### 🚀 Sleepyhead Studios Website
-- Official indie game studio website & creative showcase 
+- Official indie game studio website & creative showcase  
 - Built with React.js, Lenis Scroll, and Framer Motion  
-- Focused on immersive UI, smooth transitions, and modern web experience 
+- Focused on immersive UI, smooth transitions, and modern web experience  
+
+<p align="center">
+  <a href="https://github.com/AyushSinha2603/sh-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushSinha2603&repo=sh-website&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+---
 
 ### 🤖 MailSense-AI
 - Backend-focused intelligent email management system  
 - Integrated AI (Gemini API) for smart email processing  
 - Emphasis on automation and efficient workflows  
+
+<p align="center">
+  <a href="https://github.com/AyushSinha2603/MailSense-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushSinha2603&repo=MailSense-AI&theme=github_dark&hide_border=true" />
+  </a>
+</p>
 
 ---
 
@@ -79,7 +93,7 @@ const Ayush = {
   <a href="https://x.com/AyushSInha026" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:ayushcodes26@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AyushSinha2603">
@@ -89,19 +103,11 @@ const Ayush = {
 
 ---
 
-## ✨ Fun Fact
-
-> 🧠 I switch between React bugs and chess blunders daily.
-
----
-
 ## 🧳 Signature Energy
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
-
-> “Still becoming the person I once needed.”
 
 ---
 
