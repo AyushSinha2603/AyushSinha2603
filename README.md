@@ -42,7 +42,6 @@ const Ayush = {
 </p>
 
 ---
-
 ## ⚡ Projects & Work
 
 ### 🚀 Sleepyhead Studios Website
@@ -50,11 +49,7 @@ const Ayush = {
 - Built with React.js, Lenis Scroll, and Framer Motion  
 - Focused on immersive UI, smooth transitions, and modern web experience  
 
-<p align="center">
-  <a href="https://github.com/AyushSinha2603/sh-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushSinha2603&repo=sh-website&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+🔗 https://github.com/AyushSinha2603/sh-website  
 
 ---
 
@@ -63,11 +58,7 @@ const Ayush = {
 - Integrated AI (Gemini API) for smart email processing  
 - Emphasis on automation and efficient workflows  
 
-<p align="center">
-  <a href="https://github.com/AyushSinha2603/MailSense-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushSinha2603&repo=MailSense-AI&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+🔗 https://github.com/AyushSinha2603/MailSense-AI  
 
 ---
 
