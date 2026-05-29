@@ -52,7 +52,7 @@ const Ayush = {
 
 🔗 https://github.com/AyushSinha2603/sh-website  
 
----
+<hr width="100%">
 
 ### 🤖 MailSense-AI
 - Integrated Gemini API for intelligent email classification and workflow automation  
