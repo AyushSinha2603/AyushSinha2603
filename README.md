@@ -40,7 +40,7 @@ const Ayush = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSinha2603&theme=dark&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=SorcererCodes&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/SorcererCodes?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
 ---
