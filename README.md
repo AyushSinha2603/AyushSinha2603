@@ -21,12 +21,11 @@ const Ayush = {
   frameworks: ["Spring Boot", "Next.js", "Node.js"],
   databases: ["PostgreSQL", "MongoDB", "SQLite"],
   tools: ["Postman", "Power BI"],
-  hobbies: ["Chess", "Cricket", "Gaming"],
-  motto: "Build → Optimize → Scale 🚀"
+  hobbies: ["Chess", "Photography", "F1"]
 }
 ```
 
-💡 I enjoy building scalable applications with clean architecture. From frontend interfaces to backend systems, I focus on writing efficient code and solving meaningful problems.
+💡 I enjoy building backend-heavy applications with a focus on scalability, automation, and clean architecture. I like turning complex workflows into reliable systems and products people actually use.
 
 ---
 
@@ -40,25 +39,33 @@ const Ayush = {
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSinha2603&theme=dark&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=SorcererCodes&theme=dark" />
+</p>
 
 ---
 ## ⚡ Projects & Work
 
 ### 🚀 Sleepyhead Studios Website
-- Official indie game studio website & creative showcase  
-- Built with React.js, Lenis Scroll, and Framer Motion  
-- Focused on immersive UI, smooth transitions, and modern web experience  
+- Designed and developed the official indie game studio website and creative showcase platform   
+- Engineered immersive UI interactions, smooth animations, and performance-focused frontend experiences  
 
 🔗 https://github.com/AyushSinha2603/sh-website  
 
 ---
 
 ### 🤖 MailSense-AI
-- Backend-focused intelligent email management system  
-- Integrated AI (Gemini API) for smart email processing  
-- Emphasis on automation and efficient workflows  
+- Integrated Gemini API for intelligent email classification and workflow automation  
+- Designed backend-driven processing pipelines for efficient email organization and prioritization 
 
 🔗 https://github.com/AyushSinha2603/MailSense-AI  
+
+---
+
+## 🚧 Currently Building
+
+- Smart Research Assistant Extension with AI-powered summarization
+- CodeCrew — a collaborative platform for finding teammates, hackathons, and real-world project building
 
 ---
 
@@ -72,6 +79,13 @@ const Ayush = {
 - System Design & Distributed Systems  
 - Advanced Spring Boot Architecture  
 - Backend scalability & performance optimization  
+
+---
+
+## 🎯 Beyond Coding
+
+- ♟ Former President, Knights Chess Club — NIT Rourkela
+- 🌍 Open-source contributor with contributions to active repositories including Lichess and F1 Race Replay
 
 ---
 
@@ -94,13 +108,5 @@ const Ayush = {
 
 ---
 
-## 🧳 Signature Energy
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
----
-
-⭐ *If my work helps you, drop a star!*  
-🚀 *Open to collaborations and building impactful projects*
+⭐ Always interested in building meaningful products, scalable systems, and impactful developer experiences.
