@@ -85,7 +85,7 @@ const Ayush = {
 ## 🎯 Beyond Coding
 
 - ♟ Former President, Knights Chess Club — NIT Rourkela
-- 🌍 Open-source contributor with contributions to active repositories including Lichess and F1 Race Replay
+- 🌍 Open-source contributor with contributions to active repositories including Lichess
 
 ---
 
