@@ -45,12 +45,6 @@ const Ayush = {
   <img src="https://leetcard.jacoblin.cool/SorcererCodes?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
-<p align="center">
-  <a href="https://codolio.com/profile/Ayush_Sinha">
-    <img src="https://codolio.com/codolio_assets/cms/codolio.svg" width="400" />
-  </a>
-</p>
-
 ---
 
 ## ⚡ Projects & Work
