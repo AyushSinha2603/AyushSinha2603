@@ -31,23 +31,10 @@ const Ayush = {
 
 ## 📚 Widgets That Define My Work
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushSinha2603&theme=github_dark" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSinha2603&layout=compact&theme=github_dark&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSinha2603&theme=react-dark&hide_border=true" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushSinha2603&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -56,6 +43,12 @@ const Ayush = {
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SorcererCodes?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
+
+<p align="center">
+  <a href="https://codolio.com/profile/Ayush_Sinha">
+    <img src="https://codolio.com/codolio_assets/cms/codolio.svg" width="400" />
+  </a>
 </p>
 
 ---
