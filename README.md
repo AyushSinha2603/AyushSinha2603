@@ -32,8 +32,6 @@ const Ayush = {
 ## 📚 Widgets That Define My Work
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSinha2603&theme=react-dark&hide_border=true" />
-  <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushSinha2603&theme=github_dark" />
 </p>
 
