@@ -65,6 +65,7 @@ const Ayush = {
 
 ## 🚧 Currently Building
 
+- Opening Forge — an open-source chess opening analysis platform powered by the complete Lichess ECO database
 - Smart Research Assistant Extension with AI-powered summarization
 - CodeCrew — a collaborative platform for finding teammates, hackathons, and real-world project building
 
