@@ -40,6 +40,11 @@ Full Stack Developer | Backend & System Design Enthusiast | NIT Rourkela
 - GitHub: https://github.com/AyushSinha2603/cineverse  
 
 ---
+## Open Source Contributions
+
+- Contributed to Lichess `chess-openings` repository with 2 merged pull requests improving opening classification and transposition mapping.
+
+---
 
 ## Technical Skills
 
