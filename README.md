@@ -8,10 +8,10 @@ Full Stack Developer | Backend & System Design Enthusiast | NIT Rourkela
 
 ## About
 
-- Full-stack developer focused on backend systems, scalable applications, and clean code
-- Builds production-grade projects using Spring Boot, React, and modern web tools
-- Deeply interested in APIs, data modeling, and performance optimization
-- B.Tech Civil Engineering @ NIT Rourkela (2023–2027)
+* Full-stack developer focused on backend systems, APIs, and scalable web applications
+* Interested in system design, software architecture, and performance optimization
+* Enjoy building practical software and contributing to open-source projects
+* B.Tech Civil Engineering @ NIT Rourkela (2023–2027)
 
 ---
 
@@ -20,23 +20,31 @@ Full Stack Developer | Backend & System Design Enthusiast | NIT Rourkela
 - **Lichess (`chess-openings`):** Contributed 2 merged pull requests improving opening classification logic and transposition mapping in production.
 
 ---
-
 ## Projects
 
 ### 🚀 [MailSense AI](https://github.com/AyushSinha2603/MailSense-AI)
-- AI-powered email assistant built using Spring Boot, React, and Gemini API.
-- Designed a layered backend architecture for secure email processing, classification, and automated response generation.
-- Implemented robust REST APIs handling 100+ concurrent requests with sub-500ms response times in testing.
+
+* AI-powered email assistant built using Spring Boot, React, and Gemini API.
+* Designed a layered backend architecture for secure email processing, classification, and automated response generation.
+* Implemented REST APIs for email analysis, smart replies, and workflow automation.
+
+### 🚗 [Accident Severity Prediction Model](https://github.com/AyushSinha2603/Traffic-Accident-Severity-Prediction)
+
+* Machine learning system for predicting accident severity using real-world traffic accident data.
+* Performed data cleaning, feature engineering, exploratory data analysis, and model evaluation using Python.
+* Analyzed factors influencing accident severity and developed predictive models for risk assessment.
+
+### 🎮 [Sleepyhead Studios Website](https://github.com/AyushSinha2603/sh-website)
+
+* Developed and maintained the official website for Sleepyhead Studios, an indie game development studio.
+* Built responsive pages for game showcases, company information, announcements, and community engagement.
+* Continuously add features, content updates, and improvements to support the studio's online presence.
 
 ### ♟️ [Opening Forge](https://github.com/AyushSinha2603/opening-forge)
-- Chess opening analysis system built for structured representation of complex move sequences and variations.
-- Designed an optimized data model for move trees, graph navigation, and transposition handling in chess positions.
-- Focused on backend business logic and system design workflows for automated opening classification.
 
-### 🎬 [Cineverse](https://github.com/AyushSinha2603/cineverse)
-- Movie discovery frontend built with React, Vite, and Tailwind CSS.
-- Integrated TMDB API with custom debounced search and frontend caching for optimized network performance.
-- Reduced redundant API requests and improved client-side response efficiency by ~35%.
+* Chess opening analysis system built for structured representation of complex move sequences and variations.
+* Designed an optimized data model for move trees, graph navigation, and transposition handling in chess positions.
+* Focused on backend business logic and system design workflows for automated opening classification.
 
 ---
 
