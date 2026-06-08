@@ -8,56 +8,50 @@ Full Stack Developer | Backend & System Design Enthusiast | NIT Rourkela
 
 ## About
 
-- Full-stack developer focused on backend systems and scalable applications  
-- Builds production-grade projects using Spring Boot, React, and modern web tools  
-- Interested in APIs, system design, data modeling, and performance optimization  
+- Full-stack developer focused on backend systems, scalable applications, and clean code
+- Builds production-grade projects using Spring Boot, React, and modern web tools
+- Deeply interested in APIs, data modeling, and performance optimization
 - B.Tech Civil Engineering @ NIT Rourkela (2023–2027)
+
+---
+
+## Open Source Contributions
+
+- **Lichess (`chess-openings`):** Contributed 2 merged pull requests improving opening classification logic and transposition mapping in production.
 
 ---
 
 ## Projects
 
-### MailSense AI
-- AI-powered email assistant built using Spring Boot, React, and Gemini API  
-- Designed layered backend architecture for email processing, classification, and response generation  
-- Implemented REST APIs handling 100+ requests with sub-500ms response times in testing  
-- GitHub: https://github.com/AyushSinha2603/MailSense-AI  
+### 🚀 [MailSense AI](https://github.com/AyushSinha2603/MailSense-AI)
+- AI-powered email assistant built using Spring Boot, React, and Gemini API.
+- Designed a layered backend architecture for secure email processing, classification, and automated response generation.
+- Implemented robust REST APIs handling 100+ concurrent requests with sub-500ms response times in testing.
 
----
+### ♟️ [Opening Forge](https://github.com/AyushSinha2603/opening-forge)
+- Chess opening analysis system built for structured representation of complex move sequences and variations.
+- Designed an optimized data model for move trees, graph navigation, and transposition handling in chess positions.
+- Focused on backend business logic and system design workflows for automated opening classification.
 
-### Opening Forge
-- Chess opening analysis system for structured representation of move sequences and variations  
-- Designed data model for move trees and transposition handling in chess positions  
-- Focused on backend logic and system design for opening classification workflows  
-- GitHub: https://github.com/AyushSinha2603/opening-forge  
-
----
-
-### Cineverse
-- Movie discovery frontend built with React, Vite, and Tailwind CSS  
-- Integrated TMDB API with debounced search and caching for optimized performance  
-- Reduced redundant API calls and improved response efficiency by ~35%  
-- GitHub: https://github.com/AyushSinha2603/cineverse  
-
----
-## Open Source Contributions
-
-- Contributed to Lichess `chess-openings` repository with 2 merged pull requests improving opening classification and transposition mapping.
+### 🎬 [Cineverse](https://github.com/AyushSinha2603/cineverse)
+- Movie discovery frontend built with React, Vite, and Tailwind CSS.
+- Integrated TMDB API with custom debounced search and frontend caching for optimized network performance.
+- Reduced redundant API requests and improved client-side response efficiency by ~35%.
 
 ---
 
 ## Technical Skills
 
-- Languages: Java, JavaScript, Python, SQL  
-- Backend: Spring Boot, Node.js  
-- Frontend: React, Tailwind CSS  
-- Databases: PostgreSQL, MongoDB  
-- Tools: Git, Postman, VS Code, IntelliJ IDEA  
+- **Languages:** Java, JavaScript, Python, SQL
+- **Backend:** Spring Boot, Node.js, REST APIs
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Databases & Tools:** PostgreSQL, MongoDB, Git, Postman, Docker
+- **CS Fundamentals:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs), System Design
 
 ---
 
-## Links
+## Connect With Me
 
-- GitHub: https://github.com/AyushSinha2603  
-- LeetCode: https://leetcode.com/u/SorcererCodes/  
-- LinkedIn: https://linkedin.com/in/ayush-sinha-70046a319/
+- 💻 [GitHub Profile](https://github.com/AyushSinha2603)
+- 🧠 [LeetCode Portfolio](https://leetcode.com/u/SorcererCodes/)
+- 👔 [LinkedIn Professional](https://linkedin.com/in/ayush-sinha-70046a319/)
