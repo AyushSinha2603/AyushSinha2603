@@ -17,9 +17,10 @@ Full Stack Developer | Backend & System Design Enthusiast | NIT Rourkela
 
 ## Open Source Contributions
 
-- **Lichess (`chess-openings`):** Contributed 2 merged pull requests improving opening classification logic and transposition mapping in production.
+- **[lichess-org/chess-openings](https://github.com/lichess-org/chess-openings)** – Contributed 2 merged pull requests improving opening classification and transposition mapping for Lichess, one of the largest open-source chess platforms.
 
 ---
+
 ## Projects
 
 ### 🚀 [MailSense AI](https://github.com/AyushSinha2603/MailSense-AI)
