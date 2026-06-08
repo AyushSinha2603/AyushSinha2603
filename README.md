@@ -25,10 +25,6 @@ const Ayush = {
 }
 ```
 
-💡 I enjoy building backend-heavy applications with a focus on scalability, automation, and clean architecture. I like turning complex workflows into reliable systems and products people actually use.
-
----
-
 ## 📚 Widgets That Define My Work
 
 <p align="center">
@@ -63,52 +59,11 @@ const Ayush = {
 
 ---
 
-## 🚧 Currently Building
-
-- Opening Forge — an open-source chess opening analysis platform powered by the complete Lichess ECO database
-- Smart Research Assistant Extension with AI-powered summarization
-- CodeCrew — a collaborative platform for finding teammates, hackathons, and real-world project building
-
----
-
-## 🔧 Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nextjs,spring,postgres,mongodb,sqlite,python,git,github,postman&perline=6" />
-</div>
-
-**Currently exploring:**  
-- System Design & Distributed Systems  
-- Advanced Spring Boot Architecture  
-- Backend scalability & performance optimization  
-
----
-
 ## 🎯 Beyond Coding
 
 - ♟ Former President, Knights Chess Club — NIT Rourkela
-- 🌍 Open-source contributor with contributions to active repositories including Lichess
+- 🌍 Open-source contributor with contributions to active repositories, including Lichess and F1-Race-Replay
 
 ---
-
-## 🌍 Let’s Get Connected
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-sinha-70046a319/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/AyushSInha026" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:ayushcodes26@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/AyushSinha2603">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 
 ⭐ Always interested in building meaningful products, scalable systems, and impactful developer experiences.
