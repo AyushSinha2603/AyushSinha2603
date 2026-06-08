@@ -8,9 +8,9 @@ Full Stack Developer | Backend & System Design Enthusiast | NIT Rourkela
 
 ## About
 
-- Full-stack developer focused on backend systems and scalable web applications  
-- Experience building production-grade projects using Spring Boot and React  
-- Interested in APIs, system design, and performance optimization  
+- Full-stack developer focused on backend systems and scalable applications  
+- Builds production-grade projects using Spring Boot, React, and modern web tools  
+- Interested in APIs, system design, data modeling, and performance optimization  
 - B.Tech Civil Engineering @ NIT Rourkela (2023–2027)
 
 ---
@@ -18,24 +18,24 @@ Full Stack Developer | Backend & System Design Enthusiast | NIT Rourkela
 ## Projects
 
 ### MailSense AI
-- Built an AI-powered email assistant using Spring Boot, React, and Gemini API  
-- Designed RESTful APIs with layered architecture for email processing and classification  
-- Implemented performance-optimized backend handling 100+ API requests with sub-500ms response times  
+- AI-powered email assistant built using Spring Boot, React, and Gemini API  
+- Designed layered backend architecture for email processing, classification, and response generation  
+- Implemented REST APIs handling 100+ requests with sub-500ms response times in testing  
 - GitHub: https://github.com/AyushSinha2603/MailSense-AI  
 
 ---
 
 ### Opening Forge
-- Built a chess opening analysis tool for exploring and structuring opening move sequences  
-- Designed data model for representing move trees and transposition-based variations  
-- Focused on backend logic for position handling and structured classification  
-- GitHub: (add link)
+- Chess opening analysis system for structured representation of move sequences and variations  
+- Designed data model for move trees and transposition handling in chess positions  
+- Focused on backend logic and system design for opening classification workflows  
+- GitHub: https://github.com/AyushSinha2603/opening-forge  
 
 ---
 
 ### Cineverse
-- Developed a movie discovery frontend using React, Vite, and Tailwind CSS  
-- Integrated TMDB API with optimized search, debouncing, and caching  
+- Movie discovery frontend built with React, Vite, and Tailwind CSS  
+- Integrated TMDB API with debounced search and caching for optimized performance  
 - Reduced redundant API calls and improved response efficiency by ~35%  
 - GitHub: https://github.com/AyushSinha2603/cineverse  
 
@@ -47,7 +47,7 @@ Full Stack Developer | Backend & System Design Enthusiast | NIT Rourkela
 - Backend: Spring Boot, Node.js  
 - Frontend: React, Tailwind CSS  
 - Databases: PostgreSQL, MongoDB  
-- Tools: Git, Postman, IntelliJ IDEA, VS Code  
+- Tools: Git, Postman, VS Code, IntelliJ IDEA  
 
 ---
 
