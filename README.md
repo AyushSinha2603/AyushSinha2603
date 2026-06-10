@@ -59,7 +59,7 @@ Full Stack Developer | Backend & System Design Enthusiast | NIT Rourkela
 
 ---
 
-## 📚 Widgets That Define My Work
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSinha2603&theme=dark&hide_border=true" />
