@@ -62,7 +62,7 @@ Full Stack Developer | Backend & System Design Enthusiast | NIT Rourkela
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSinha2603&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AyushSinha2603&theme=dark&hide_border=true" alt="Ayush Sinha's GitHub Streak" />
 </p>
 
 ---
