@@ -8,11 +8,11 @@ Software Engineer | Backend & System Design Enthusiast | NIT Rourkela
 
 ## 👋 About
 
-* Software Engineer focused on backend systems, APIs, and scalable web applications.
-* Co-founder of Sleepyhead Studios, leading web presence and game development initiatives.
-* Passionate about system design, software architecture, and performance optimization.
-* B.Tech in Civil Engineering @ NIT Rourkela (Class of 2027).
-* Beyond the screen, I'm the President of the Knights Chess Club, an avid F1 fan, and a dedicated Linux tinkerer.
+Focused on building scalable web applications and optimizing backend systems. Passionate about modern architecture, clean code, and performance.
+
+* 💻 **Core Stack:** Java, Spring Boot, React, Next.js
+* 🎓 **Education:** B.Tech in Civil Engineering @ NIT Rourkela ('27)
+* 🏎️ **Off-screen:** Avid F1 fan, love photography, and enjoy a good game of chess.
 
 ---
 
