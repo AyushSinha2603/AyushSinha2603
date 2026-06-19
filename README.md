@@ -28,8 +28,8 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 ### 📧 [MailSense AI](https://github.com/AyushSinha2603/MailSense-AI)
 
 * AI-powered email assistant integrating Spring Boot, React, and the Gemini API.
-* Designed a layered backend architecture focused on secure email processing and optimizing backend performance metrics.
-* Implemented REST APIs for email analysis, smart replies, and workflow automation.
+* Designed a layered backend architecture focused on secure email processing, achieving sub-500ms API response times across 100+ concurrent requests.
+* Implemented REST APIs for workflow automation, successfully parsing and processing 40+ emails during system evaluation.
 
 ### 🚗 [Accident Severity Prediction Model](https://github.com/AyushSinha2603/Traffic-Accident-Severity-Prediction)
 
@@ -40,14 +40,14 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 ### 🎮 [Sleepyhead Studios Website](https://github.com/AyushSinha2603/sh-website)
 
 * Developed and deployed the official landing platform for Sleepyhead Studios using Next.js 14, React 19, Framer Motion, and Lenis for smooth scrolling.
-* Configured custom domains, managed DNS routing, and built responsive pages for game showcases and community engagement.
-* Continuously optimize UI/UX and backend performance to support the studio's growing online presence.
+* Leveraged Next.js Server Components to optimize frontend rendering performance, building dynamic game showcases and interactive news timelines.
+* Configured custom domains, managed DNS routing, and continuously optimized UI/UX to support the studio's growing online presence.
 
 ### ♟️ [Opening Forge](https://github.com/AyushSinha2603/opening-forge)
 
 * Chess opening analysis system built for structured representation of complex move sequences and variations.
-* Designed an optimized data model for move trees, graph navigation, and transposition handling in chess positions.
-* Focused on backend business logic and system design workflows for automated opening classification.
+* Engineered an optimized data model recognizing over 3,700 unique openings by integrating the complete Lichess ECO dataset.
+* Designed system workflows for automated opening classification, FEN-indexed position generation, and engine evaluation processing.
 
 ---
 
