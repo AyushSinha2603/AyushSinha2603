@@ -56,7 +56,7 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 - **Languages:** Java, JavaScript, Python, SQL, Bash
 - **Backend:** Spring Boot, Node.js, REST APIs
 - **Frontend:** React, Next.js, Tailwind CSS
-- **Databases & Tools:** PostgreSQL, MongoDB, Git, Postman, Docker, Linux (Ubuntu/X11)
+- **Databases & Tools:** PostgreSQL, MongoDB, Git, Postman
 - **CS Fundamentals:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs), System Design
 
 ---
@@ -69,8 +69,9 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-- 🌐 [LinkedIn Professional](https://linkedin.com/in/ayush-sinha-70046a319/)
-- 🐙 [GitHub Profile](https://github.com/AyushSinha2603)
-- 🎯 [LeetCode Portfolio](https://leetcode.com/u/SorcererCodes/)
+<p align="left">
+  <a href="https://linkedin.com/in/ayush-sinha-70046a319/">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://leetcode.com/u/SorcererCodes/">LeetCode</a>
+</p>
