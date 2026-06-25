@@ -53,7 +53,7 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Java, JavaScript, Python, SQL
+- **Languages:** Java, JavaScript, Typescript, Python, SQL
 - **Backend:** Spring Boot, Node.js, REST APIs
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Databases & Tools:** PostgreSQL, MongoDB, Git, Postman
