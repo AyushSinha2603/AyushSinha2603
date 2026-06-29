@@ -12,7 +12,7 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 
 * 💻 **Core Stack:** Java, Spring Boot, React, Next.js
 * 🎓 **Education:** B.Tech in Civil Engineering @ NIT Rourkela ('27)
-* 🏎️ **Off-screen:** Avid F1 fan, love photography, and enjoy a good game of chess.
+* 🏎️ **Off-screen:** Avid F1 fan, AoE2 strategist, amateur photographer, and speed chess enthusiast.
 
 ---
 
