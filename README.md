@@ -60,7 +60,7 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 - **CS Fundamentals:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs), System Design
 
 ---
-
+<!-- 
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -68,7 +68,7 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 </p>
 
 ---
-
+-->
 ## 📫 Connect
 
 <p align="left">
