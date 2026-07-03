@@ -60,7 +60,7 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 - **CS Fundamentals:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs), System Design
 
 ---
-<!-- 
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -68,10 +68,3 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 </p>
 
 ---
--->
-## 📫 Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/ayush-sinha-70046a319/">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://leetcode.com/u/SorcererCodes/">LeetCode</a>
-</p>
