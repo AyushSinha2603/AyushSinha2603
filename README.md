@@ -18,9 +18,10 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 
 ## 🌍 Open Source Contributions
 
-- **[lichess-org/chess-openings](https://github.com/lichess-org/chess-openings)** – Contributed 2 merged pull requests improving opening classification and transposition mapping for Lichess, one of the largest open-source chess platforms.
-- **[fitztrev/rosen-score](https://github.com/fitztrev/rosen-score/pull/12)** – Implemented a "Both" platform option to aggregate player statistics from Lichess and Chess.com simultaneously. Engineered concurrent API request handling and dynamic UI updates for cross-platform data fetching. *(Passed all CI checks; currently pending maintainer review).*
-
+* **[lichess-org/chess-openings](https://github.com/lichess-org/chess-openings)** – Contributed 2 merged pull requests improving opening classification and transposition mapping for Lichess, one of the largest open-source chess platforms.
+* **[fitztrev/rosen-score](https://github.com/fitztrev/rosen-score)** – Implemented a "Both" platform option to aggregate player statistics from Lichess and Chess.com simultaneously. Engineered concurrent API request handling and dynamic UI updates for cross-platform data fetching. *(Passed all CI checks; currently pending maintainer review)*.
+* **[IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay)** – Improved project documentation by adding a first-run notice detailing FastF1 cache generation and initial telemetry data loading expectations, streamlining the setup process for new users.
+  
 ---
 
 ## 🚀 Projects
