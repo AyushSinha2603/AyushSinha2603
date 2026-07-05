@@ -11,7 +11,7 @@ Software Engineer | Backend & System Design Enthusiast | NIT Rourkela
 Focused on building scalable web applications and optimizing backend systems. Passionate about modern architecture, clean code, and performance.
 
 * 💻 **Core Stack:** Java, Spring Boot, React, Next.js
-* 🎓 **Education:** B.Tech in Civil Engineering @ NIT Rourkela ('27)
+* 🎓 **Education:** Data Scientist @ NIT Rourkela ('27)
 * 🏎️ **Off-screen:** Avid F1 fan, AoE2 strategist, amateur photographer, and speed chess enthusiast.
 
 ---
@@ -19,7 +19,7 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 ## 🌍 Open Source Contributions
 
 * **[lichess-org/chess-openings](https://github.com/lichess-org/chess-openings)** – Contributed 2 merged pull requests improving opening classification and transposition mapping for Lichess, one of the largest open-source chess platforms.
-* **[fitztrev/rosen-score](https://github.com/fitztrev/rosen-score)** – Implemented a "Both" platform option to aggregate player statistics from Lichess and Chess.com simultaneously. Engineered concurrent API request handling and dynamic UI updates for cross-platform data fetching. *(Passed all CI checks; currently pending maintainer review)*.
+* **[fitztrev/rosen-score](https://github.com/fitztrev/rosen-score) & [Project Rosen](https://github.com/AyushSinha2603/project-rosen)** – Implemented a "Both" platform option to aggregate player statistics from Lichess and Chess.com simultaneously. Maintained a distinct fork featuring a Neobrutalist UI overhaul and dynamic PNG generation for downloadable FUT-style stat cards.
 * **[IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay)** – Improved project documentation by adding a first-run notice detailing FastF1 cache generation and initial telemetry data loading expectations, streamlining the setup process for new users.
   
 ---
