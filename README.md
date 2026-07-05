@@ -11,7 +11,7 @@ Software Engineer | Backend & System Design Enthusiast | NIT Rourkela
 Focused on building scalable web applications and optimizing backend systems. Passionate about modern architecture, clean code, and performance.
 
 * 💻 **Core Stack:** Java, Spring Boot, React, Next.js
-* 🎓 **Education:** Data Scientist @ NIT Rourkela ('27)
+* 🎓 **Education:** B.Tech in Civil Engineering @ NIT Rourkela ('27)
 * 🏎️ **Off-screen:** Avid F1 fan, AoE2 strategist, amateur photographer, and speed chess enthusiast.
 
 ---
