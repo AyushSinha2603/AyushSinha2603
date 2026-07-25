@@ -12,6 +12,7 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 
 * 💻 **Core Stack:** Java, Spring Boot, React, Next.js
 * 🎓 **Education:** B.Tech in Civil Engineering @ NIT Rourkela ('27)
+* ♟️ **Leadership:** President of the Knights Chess Club, NIT Rourkela's official chess society.
 * 🏎️ **Off-screen:** Avid F1 fan, AoE2 strategist, amateur photographer, and speed chess enthusiast.
 
 ---
@@ -26,21 +27,22 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 
 ## 🚀 Projects
 
+### 🛡️ [Distributed API Rate Limiter](https://github.com/AyushSinha2603/rate-limiter)
+
+* High-performance, containerized rate-limiting microservice built with Spring Boot to manage API traffic and prevent abuse.
+* Implemented the Token Bucket algorithm via Redis to ensure sub-millisecond latency for traffic evaluation across distributed nodes.
+* Decoupled the analytics workload by streaming audit logs asynchronously to Apache Kafka, maintaining a strictly non-blocking critical request path.
+* Orchestrated a 6-container Docker network featuring PostgreSQL for tier management and a Prometheus/Grafana pipeline for real-time observability.
+
 ### 📧 [MailSense AI](https://github.com/AyushSinha2603/MailSense-AI)
 
 * AI-powered email assistant integrating Spring Boot, React, and the Gemini API.
 * Designed a layered backend architecture focused on secure email processing, achieving sub-500ms API response times across 100+ concurrent requests.
 * Implemented REST APIs for workflow automation, successfully parsing and processing 40+ emails during system evaluation.
 
-### 🚗 [Accident Severity Prediction Model](https://github.com/AyushSinha2603/Traffic-Accident-Severity-Prediction)
-
-* Machine learning system for predicting accident severity, trained and evaluated on a robust dataset of 300,000+ real-world traffic records.
-* Performed data cleaning, feature engineering, exploratory data analysis, and model evaluation using Python and Pandas.
-* Analyzed factors influencing accident severity and developed predictive models for risk assessment.
-
 ### 🎮 [Sleepyhead Studios Website](https://github.com/AyushSinha2603/sh-website)
 
-* Developed and deployed the official landing platform for Sleepyhead Studios using Next.js 14, React 19, Framer Motion, and Lenis for smooth scrolling.
+* Developed and deployed the official landing platform for an indie game development studio using Next.js 14, React 19, Framer Motion, and Lenis for smooth scrolling.
 * Leveraged Next.js Server Components to optimize frontend rendering performance, building dynamic game showcases and interactive news timelines.
 * Configured custom domains, managed DNS routing, and continuously optimized UI/UX to support the studio's growing online presence.
 
@@ -54,11 +56,11 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Java, JavaScript, Typescript, Python, SQL
-- **Backend:** Spring Boot, Node.js, REST APIs
+- **Languages:** Java, JavaScript, TypeScript, Python, SQL
+- **Backend & Systems:** Spring Boot, Node.js, REST APIs, System Design
+- **Data & Streaming:** PostgreSQL, MongoDB, Redis, Apache Kafka
 - **Frontend:** React, Next.js, Tailwind CSS
-- **Databases & Tools:** PostgreSQL, MongoDB, Git, Postman
-- **CS Fundamentals:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs), System Design
+- **DevOps & Tools:** Docker, Git, Prometheus, Grafana, Postman
 
 ---
 
@@ -67,5 +69,3 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AyushSinha2603&theme=dark&hide_border=true" alt="Ayush Sinha's GitHub Streak" />
 </p>
-
----
