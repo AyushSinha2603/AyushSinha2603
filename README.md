@@ -27,7 +27,7 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 
 ## 🚀 Projects
 
-### 🛡️ [Distributed API Rate Limiter](https://github.com/AyushSinha2603/rate-limiter)
+### 🛡️ [Distributed API Rate Limiter](https://github.com/AyushSinha2603/distributed-rate-limiter)
 
 * High-performance, containerized rate-limiting microservice built with Spring Boot to manage API traffic and prevent abuse.
 * Implemented the Token Bucket algorithm via Redis to ensure sub-millisecond latency for traffic evaluation across distributed nodes.
