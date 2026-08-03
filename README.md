@@ -12,7 +12,6 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 
 * 💻 **Core Stack:** Java, Spring Boot, React, Next.js
 * 🎓 **Education:** B.Tech in Civil Engineering @ NIT Rourkela ('27)
-* ♟️ **Leadership:** President of the Knights Chess Club, NIT Rourkela's official chess society.
 * 🏎️ **Off-screen:** Avid F1 fan, AoE2 strategist, amateur photographer, and speed chess enthusiast.
 
 ---
