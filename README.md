@@ -1,7 +1,7 @@
 <h1 align="center">Ayush Sinha</h1>
 
 <p align="center">
-Software Engineer | Backend & System Design Enthusiast | NIT Rourkela
+Software Developer | Backend & System Design Enthusiast | NIT Rourkela
 </p>
 
 ---
@@ -21,7 +21,7 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 * **[lichess-org/chess-openings](https://github.com/lichess-org/chess-openings)** – Contributed 3 merged pull requests improving opening classification and transposition mapping for Lichess, one of the largest open-source chess platforms.
 * **[fitztrev/rosen-score](https://github.com/fitztrev/rosen-score) & [Project Rosen](https://github.com/AyushSinha2603/project-rosen)** – Implemented a "Both" platform option to aggregate player statistics from Lichess and Chess.com simultaneously. Maintained a distinct fork featuring a UI overhaul and dynamic PNG generation for downloadable FUT-style stat cards.
 * **[IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay)** – Improved project documentation by adding a first-run notice detailing FastF1 cache generation and initial telemetry data loading expectations, streamlining the setup process for new users.
-  
+
 ---
 
 ## 🚀 Projects
@@ -35,9 +35,10 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 
 ### 📧 [MailSense AI](https://github.com/AyushSinha2603/MailSense-AI)
 
-* AI-powered email assistant integrating Spring Boot, React, and the Gemini API.
-* Designed a layered backend architecture focused on secure email processing, achieving sub-500ms API response times across 100+ concurrent requests.
-* Implemented REST APIs for workflow automation, successfully parsing and processing 40+ emails during system evaluation.
+* Gmail extension (Chrome Manifest V3) and Spring Boot backend that drafts email replies with Google Gemini, adding a **Generate Reply** button with selectable tones directly inside Gmail's compose window.
+* Built a **"My Tone"** mode using retrieval-augmented generation: embeds a user's past emails (768-dimension Gemini embeddings), retrieves the 5 most similar by cosine similarity, and feeds them to the model as few-shot examples so drafts match the user's own writing style.
+* Hardened the Gemini integration with retries and backoff on 429/500/503 errors, an automatic fallback model, and clear upstream error reporting; API keys stay server-side in environment variables.
+* Stack: Java 21, Spring Boot, React, Chrome Extension APIs, Gemini API.
 
 ### 🎮 [Sleepyhead Studios Website](https://github.com/AyushSinha2603/sh-website)
 
@@ -58,6 +59,7 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 - **Languages:** Java, JavaScript, TypeScript, Python, SQL
 - **Backend & Systems:** Spring Boot, Node.js, REST APIs, System Design
 - **Data & Streaming:** PostgreSQL, MongoDB, Redis, Apache Kafka
+- **AI & Integrations:** Gemini API, RAG (embeddings + vector similarity search), Chrome Extensions (Manifest V3)
 - **Frontend:** React, Next.js, Tailwind CSS
 - **DevOps & Tools:** Docker, Git, Prometheus, Grafana, Postman
 
