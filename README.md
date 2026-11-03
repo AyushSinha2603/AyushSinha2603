@@ -1,4 +1,4 @@
-<h1 align="center">Ayush Sinha</h1>
+Rx Rx<h1 align="center">Ayush Sinha</h1>
 
 <p align="center">
 Software Developer | Backend & System Design Enthusiast | NIT Rourkela
@@ -16,7 +16,7 @@ Focused on building scalable web applications and optimizing backend systems. Pa
 
 ---
 
-## 🌍 Open Source Contributions
+## 🌍 Open Source Contributions:
 
 * **[lichess-org/chess-openings](https://github.com/lichess-org/chess-openings)** – Contributed 3 merged pull requests improving opening classification and transposition mapping for Lichess, one of the largest open-source chess platforms.
 * **[fitztrev/rosen-score](https://github.com/fitztrev/rosen-score) & [Project Rosen](https://github.com/AyushSinha2603/project-rosen)** – Implemented a "Both" platform option to aggregate player statistics from Lichess and the Chess.com simultaneously. Maintained a distinct fork featuring a UI overhaul and dynamic PNG generation for downloadable FUT-style stat cards.
