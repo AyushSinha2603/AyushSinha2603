@@ -1,4 +1,4 @@
-Rx Rx<h1 align="center">Ayush Sinha</h1>
+<h1 align="center">Ayush Sinha</h1>
 
 <p align="center">
 Software Developer | Backend & System Design Enthusiast | NIT Rourkela
